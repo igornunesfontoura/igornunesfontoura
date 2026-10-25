@@ -24,9 +24,6 @@ Aplicação desktop para avaliar álbuns faixa por faixa. Nasceu como Projeto In
 
 📫 [igorfontoura0702@gmail.com](mailto:igorfontoura0702@gmail.com)
 
-## Estatísticas
+## Linguagens mais usadas
 
-<p>
-  <img height="160" alt="Estatísticas do GitHub de Igor Nunes" src="https://github-readme-stats.vercel.app/api?username=igornunesfontoura&show_icons=true&theme=github_dark&include_all_commits=true" />
-  <img height="160" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornunesfontoura&layout=compact&langs_count=6&theme=github_dark" />
-</p>
+<img height="160" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornunesfontoura&layout=compact&langs_count=6&theme=github_dark" />
