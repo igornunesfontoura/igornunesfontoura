@@ -10,6 +10,9 @@ Toca um clipe de vídeo e áudio por cima da webcam durante chamadas no Linux, u
 **[SongLog](https://github.com/igornunesfontoura/SongLog)** · Java Swing + MySQL\
 Aplicação desktop para avaliar álbuns faixa por faixa. Nasceu como Projeto Integrador do curso técnico no Senac.
 
+**[Controle Remoto](https://github.com/igornunesfontoura/ControleRemoto)** · Kotlin + Jetpack Compose\
+App Android que transforma o celular em teclado, touchpad e controle de mídia Bluetooth para o computador.
+
 ## Tecnologias
 
 <p>
@@ -17,7 +20,8 @@ Aplicação desktop para avaliar álbuns faixa por faixa. Nasceu como Projeto In
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" title="HTML" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>&nbsp;
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" title="CSS" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>&nbsp;
   <a href="https://www.python.org/"><img alt="Python" title="Python" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>&nbsp;
-  <a href="https://dev.java/"><img alt="Java" title="Java" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+  <a href="https://dev.java/"><img alt="Java" title="Java" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>&nbsp;
+  <a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></a>
 </p>
 
 ## Contato
