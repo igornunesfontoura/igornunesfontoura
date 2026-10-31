@@ -4,6 +4,9 @@ Sou de Porto Alegre/RS e crio software por conta própria: observo o meu dia a d
 
 ## Projetos em destaque
 
+**[Your Finances](https://github.com/igornunesfontoura/YourFinances)** · Kotlin + Jetpack Compose\
+App Android de finanças pessoais, local-first e sem internet: lançamentos, cartões, parcelas e caixinhas, com o quanto ainda dá para gastar no mês.
+
 **[overcam](https://github.com/igornunesfontoura/overcam)** · Python\
 Toca um clipe de vídeo e áudio por cima da webcam durante chamadas no Linux, usando v4l2loopback e PipeWire.
 
